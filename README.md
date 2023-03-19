@@ -1,0 +1,2 @@
+# Pneumonia-Detection-with-CNNs-Convolutional-Neural-Networks-on-X-ray-Images-for-Accurate-Diagnosis
+This project focuses on training machine learning models, specifically Convolutional Neural Networks (CNN), to detect pneumonia using x-ray images. The dataset contains 4627 training images and 1168 test images, with the training images labeled into three classes: no disease, bacterial pneumonia, and viral pneumonia.
